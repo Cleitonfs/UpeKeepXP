@@ -24,7 +24,7 @@ Use seu melhor julgamento para nos propor mudanças nos ajudando com um pull req
 
 ## Code of Conduct
 
-Nossas regras de condutas estão em [UpKeep XP Code of Conduct](Code_Of_Conduct.md). 
+Nossas regras de condutas estão em [UpKeep XP Code of Conduct](Code_of_Conduct.md). 
 Para participar você precisa seguir nosso código.
 Please report unacceptable behavior to [upkeepxp@gmail.com](mailto:upkeepxp@gmail.com).
 
@@ -34,7 +34,7 @@ Please report unacceptable behavior to [upkeepxp@gmail.com](mailto:upkeepxp@gmai
 
 Por favor entre em contato nos seguintes endereços eletronicos:
 
-  *upkeepxp@gmail.com(mailto:upkeepxp@gmail.com)
+  *upkeepxp@gmail.com
   
   *cristian.santos@ufrpe.br
   
@@ -51,7 +51,7 @@ Por favor entre em contato nos seguintes endereços eletronicos:
 
 ### Reportando Bugs
 
-A ideia dessa seção é ajudar você a ser entendido por nós e assim você poderá nos ajudar facilmente: pencil:, quanto mais claro você puder ser mais rapido nos ajudará a resolver nossos problemas e ficaremos felizes.
+A ideia dessa seção é ajudar você a ser entendido por nós e assim você poderá nos ajudar facilmente :pencil:, quanto mais claro você puder ser mais rapido nos ajudará a resolver nossos problemas e ficaremos felizes.
 
 #### Como enviar um (bom) Bug Report?
 
@@ -92,6 +92,10 @@ Não seja timido! Nos ajude a aprender!
 
 ## Styleguides
 
+###Google Java Style Guide
+[Google Java Syle Guide](docs/style_guides.md)
+
+
 ### Git Commit Messages
 
 * Use sentenças no Presente ("Adicione Funcionalidade" não "Funcionalidade Adicionada")
@@ -102,7 +106,7 @@ Não seja timido! Nos ajude a aprender!
     * :memo: `:memo:` quando se tratar de documentação
     * :bug: `:bug:` quando corrigir um bug
     * :fire: `:fire:`quando se tratar de um problema com o Firebase
-    * :cofee: `:coffer:` quando se tratar de um problema de Java
+    * :coffee: `:coffee:` quando se tratar de um problema de Java
     * :white_check_mark: `:white_check_mark:`quando adicionar testes
     * :lock: `:lock:` quando se tratar de segurança
     * :arrow_up: `:arrow_up:` quando adicionar dependencias
