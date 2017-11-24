@@ -92,8 +92,9 @@ Não seja timido! Nos ajude a aprender!
 
 ## Styleguides
 
-###Google Java Style Guide
-[Google Java Syle Guide](docs/style_guides.md)
+### Google Java Style Guide
+
+[Google Java Syle Guide](docs/code_style.md)
 
 
 ### Git Commit Messages
