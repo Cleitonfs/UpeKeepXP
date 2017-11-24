@@ -24,7 +24,7 @@ Use seu melhor julgamento para nos propor mudanças nos ajudando com um pull req
 
 ## Code of Conduct
 
-Nossas regras de condutas estão em [UpKeep XP Code of Conduct](CODE_OF_CONDUCT.md). 
+Nossas regras de condutas estão em [UpKeep XP Code of Conduct](Code_Of_Conduct.md). 
 Para participar você precisa seguir nosso código.
 Please report unacceptable behavior to [upkeepxp@gmail.com](mailto:upkeepxp@gmail.com).
 
