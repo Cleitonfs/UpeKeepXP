@@ -19,6 +19,7 @@ Use seu melhor julgamento para nos propor mudanças nos ajudando com um pull req
 
 [Styleguides](#styleguides)
   * [Google Java Style Guide](#java-style-guide)
+  * [Android XML Style Guide](#xml-style-guide)
   * [Git Commit Messages](#git-commit-messages)
   * [Documentation Styleguide](#documentation-styleguide)
 
@@ -95,6 +96,10 @@ Não seja timido! Nos ajude a aprender!
 ### Java Style Guide
 
 [Google Java Syle Guide](/docs/Code_Style.md)
+
+### Android XML Style Guide
+
+[Android XML Style Guide](https://developer.android.com/guide/topics/resources/style-resource.html)
 
 
 ### Git Commit Messages
