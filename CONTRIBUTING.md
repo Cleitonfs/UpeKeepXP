@@ -18,8 +18,8 @@ Use seu melhor julgamento para nos propor mudanças nos ajudando com um pull req
   * [Pull Requests](#pull-requests)
 
 [Styleguides](#styleguides)
-  * [Git Commit Messages](#git-commit-messages)
   * [Google Java Style Guide](#java-styleguide)
+  * [Git Commit Messages](#git-commit-messages)
   * [Documentation Styleguide](#documentation-styleguide)
 
 ## Code of Conduct
@@ -92,9 +92,9 @@ Não seja timido! Nos ajude a aprender!
 
 ## Styleguides
 
-### Google Java Style Guide
+### Java Style Guide
 
-[Google Java Syle Guide](docs/code_style.md)
+[Google Java Syle Guide](UpeKeepXP/docs/Code_Style.md)
 
 
 ### Git Commit Messages
